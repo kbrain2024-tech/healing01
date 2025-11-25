@@ -1,0 +1,21 @@
+{
+  "name": "K-웰니스 힐링",
+  "short_name": "K-웰니스",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F7F5",
+  "theme_color": "#7C9885",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022938.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022938.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
